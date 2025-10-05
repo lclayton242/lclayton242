@@ -1,8 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Luke - <a href="https://www.linkedin.com/in/lukeaclayton/">Cybersecurity Professional</a>
 
-<!--
-**lclayton242/lclayton242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻Cyber Security Projects:</h2>
 
+- <b>Vulnerability Tests </b>
+  - [Practicing Vulnerability Test - Windows](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Vulnerability Test - Linux](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>Certifications:</h2>
+- <b>CompTIA Security+ V7</b>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
