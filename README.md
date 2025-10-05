@@ -6,7 +6,7 @@
   - [Practicing Vulnerability Test - Windows](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Practicing Vulnerability Test - Linux](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>System Hardening </b>
-  - [First Lab, Networking and Hardening]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/lclayton242/Securityplus-homelab))
+  - [First Lab Networking and Hardening](https://github.com/lclayton242/Securityplus-homelab)
 
     
 
