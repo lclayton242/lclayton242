@@ -2,6 +2,8 @@
 
 <h2>👨‍💻Cyber Security Projects: newest at the top of each category </h2>
 
+- <b>Vulnerability Remediation </b>
+  - [Practicing Vulnerability Remediation - Windows](https://github.com/lclayton242/Vulnerability-Testing-Lab)
 - <b>Vulnerability Tests </b>
   - [Practicing Vulnerability Test - Windows](https://github.com/lclayton242/Vulnerability-Testing-Lab)
   - [Practicing Vulnerability Test - Linux](https://github.com/lclayton242/Vulnerability-Test-Linux)
