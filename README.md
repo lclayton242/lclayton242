@@ -14,3 +14,6 @@
 
 <h2>Certifications:</h2>
 - <b>CompTIA Security+ V7</b>
+
+<h2></h2>
+Disclaimer: All summaries are compiled through a combination of generative drafting aka A.I. and human editing. This is done for time efficiency and claification purposes
