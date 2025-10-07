@@ -3,7 +3,8 @@
 <h2>Cyber Security Projects:</h2>
 
 - <b>Vulnerability Remediation </b>
-  - [Practicing Manual Vulnerability Remediation - Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
+  - [Programmatic Vulnerability Remediation - Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
+  - [Manual Vulnerability Remediation - Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
 - <b>Vulnerability Tests </b>
   - [Practicing Vulnerability Test - Windows](https://github.com/lclayton242/Vulnerability-Testing-Lab)
   - [Practicing Vulnerability Test - Linux](https://github.com/lclayton242/Vulnerability-Test-Linux)
