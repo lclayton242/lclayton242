@@ -1,6 +1,6 @@
 <h1>Hi, I'm Luke - <a href="https://www.linkedin.com/in/lukeaclayton/">Cybersecurity Professional</a>
 
-<h2>👨‍💻Cyber Security Projects:</h2>
+<h2>Cyber Security Projects:</h2>
 
 - <b>Vulnerability Remediation </b>
   - [Practicing Manual Vulnerability Remediation - Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
