@@ -3,7 +3,7 @@
 <h2>Cyber Security Projects:</h2>
 
 - <b>Vulnerability Management </b>
-  - [Programmatic Vulnerability Remediation - Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
+  - [Total Vulnerability Management Lab - Windows](https://github.com/lclayton242/Vulnerability-Management)
 - <b>Vulnerability Remediation </b>
   - [Programmatic Vulnerability Remediation - Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
   - [Manual Vulnerability Remediation - Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
