@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/lclayton242/Threat-Hunting-Report-Unauthorized-TOR-Usage)**
 - [Threat Hunting Scenario (Brute Force Login Attempt)](https://github.com/lclayton242/Threat-Hunt-Scenario---Accidental-Exposure-to-Internet/tree/main)**
 ## ⚠️ Vulnerability Management Projects
- ## - Total Vulnerability Management Lab - Windows](https://github.com/lclayton242/Vulnerability-Management)
+ ## - [Total Vulnerability Management Lab - Windows](https://github.com/lclayton242/Vulnerability-Management)
 - <b>Vulnerability Remediation </b>
   - [Programmatic Vulnerability Remediation - Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
   - [Manual Vulnerability Remediation - Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
