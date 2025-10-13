@@ -29,7 +29,6 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
   - **System Hardening**
     - [First Lab – Networking and Hardening](https://github.com/lclayton242/Securityplus-homelab)
-    - [Total Vulnerability Management Lab – Windows](https://github.com/lclayton242/Vulnerability-Management)
 
 ---
 
