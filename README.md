@@ -11,11 +11,12 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 ## 🧠 Cybersecurity Projects
 
 ### 🚨 Threat Hunting and Security Operations
-- [Threat Hunting Scenario – TOR Browser Usage](https://github.com/lclayton242/Threat-Hunting-Report-Unauthorized-TOR-Usage)
+- **[Threat Hunting Scenario – TOR Browser Usage](https://github.com/lclayton242/Threat-Hunting-Report-Unauthorized-TOR-Usage)**
 - [Threat Hunting Scenario – Brute Force Login Attempt](https://github.com/lclayton242/Threat-Hunt-Scenario---Accidental-Exposure-to-Internet/tree/main)
 
 ### ⚙️ Vulnerability Management
-  - [Total Vulnerability Management Lab – Windows](https://github.com/lclayton242/Vulnerability-Management)
+  - **End-to-End Vulnerability Management**
+    - **[End-to-End Vulnerability Management – Windows](https://github.com/lclayton242/Vulnerability-Management)**
 
   - **Vulnerability Remediation**
     - [Programmatic Vulnerability Remediation – Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
