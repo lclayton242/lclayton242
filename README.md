@@ -20,15 +20,14 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 - [Threat Hunting Scenario – Network Slowdown](https://github.com/lclayton242/Threat-Hunt-Scenario---Network-Slowdown)
 
 ### ⚙️ Vulnerability Management
-  - **Vulnerability Management**
-    - **[End-to-End Vulnerability Management – Windows](https://github.com/lclayton242/Vulnerability-Management)**
-    - [Programmatic Vulnerability Remediation – Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
-    - [Manual Vulnerability Remediation – Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
-    - [Practicing Vulnerability Test – Windows](https://github.com/lclayton242/Vulnerability-Testing-Lab)
-    - [Practicing Vulnerability Test – Linux](https://github.com/lclayton242/Vulnerability-Test-Linux)
+- **[End-to-End Vulnerability Management – Windows](https://github.com/lclayton242/Vulnerability-Management)**
+- [Programmatic Vulnerability Remediation – Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
+- [Manual Vulnerability Remediation – Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
+- [Practicing Vulnerability Test – Windows](https://github.com/lclayton242/Vulnerability-Testing-Lab)
+- [Practicing Vulnerability Test – Linux](https://github.com/lclayton242/Vulnerability-Test-Linux)
 
-  - **System Hardening**
-    - [First Lab – Networking and Hardening](https://github.com/lclayton242/Securityplus-homelab)
+### System Hardening
+- [First Lab – Networking and Hardening](https://github.com/lclayton242/Securityplus-homelab)
 
 ---
 
