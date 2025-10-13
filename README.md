@@ -17,16 +17,13 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 ### 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario – TOR Browser Usage](https://github.com/lclayton242/Threat-Hunting-Report-Unauthorized-TOR-Usage)**
 - [Threat Hunting Scenario – Brute Force Login Attempt](https://github.com/lclayton242/Threat-Hunt-Scenario---Accidental-Exposure-to-Internet/tree/main)
+- [Threat Hunting Scenario – Network Slowdown](https://github.com/lclayton242/Threat-Hunt-Scenario---Network-Slowdown)
 
 ### ⚙️ Vulnerability Management
-  - **End-to-End Vulnerability Management**
+  - **Vulnerability Management**
     - **[End-to-End Vulnerability Management – Windows](https://github.com/lclayton242/Vulnerability-Management)**
-
-  - **Vulnerability Remediation**
     - [Programmatic Vulnerability Remediation – Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
     - [Manual Vulnerability Remediation – Windows](https://github.com/lclayton242/Vulnerability-Remediation-)
-
-  - **Vulnerability Tests**
     - [Practicing Vulnerability Test – Windows](https://github.com/lclayton242/Vulnerability-Testing-Lab)
     - [Practicing Vulnerability Test – Linux](https://github.com/lclayton242/Vulnerability-Test-Linux)
 
