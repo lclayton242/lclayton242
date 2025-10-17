@@ -16,6 +16,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 
 ### 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario – TOR Browser Usage](https://github.com/lclayton242/Threat-Hunting-Report-Unauthorized-TOR-Usage)**
+- [Threat Hunting scenario - Brute Force Attack and System Compromise](https://github.com/lclayton242/Threat-Hunt---Compromise-of-slflarewinsystmo)
 - [Threat Hunting Scenario – Brute Force Login Attempt](https://github.com/lclayton242/Threat-Hunt-Scenario---Accidental-Exposure-to-Internet/tree/main)
 - [Threat Hunting Scenario – Network Slowdown](https://github.com/lclayton242/Threat-Hunt-Scenario---Network-Slowdown)
 
